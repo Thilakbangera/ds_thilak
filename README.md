@@ -1,4 +1,4 @@
-### 📄 Final `README.md` (You Can Copy-Paste)
+📄 Final `README.md` (You Can Copy-Paste)
 
 ```markdown
 # 📊 Sentiment-Driven Trading Analysis
@@ -7,33 +7,33 @@ This project explores how market sentiment (Fear vs Greed) affects trading behav
 
 ---
 
-## 👤 Author
+👤 Author
 
-- **Name:** Thilak
-- **Internship Platform:** Internshala
-- **Company:** Primetrade.ai
-- **Project:** Data Science Internship Project
-- **Duration:** July 2025
-
----
-
-## 🎯 Aim
-
-To investigate the relationship between **market sentiment** and **trading behavior** by analyzing execution data and the Fear & Greed Index — identifying patterns in profit/loss and trade size across different market emotions.
+- Name:Thilak
+- Internship Platform:Internshala
+- Company:Primetrade.ai
+- Project:Data Science Internship Project
+- Duration:July 2025
 
 ---
 
-## 🔧 Tools & Technologies Used
+🎯 Aim
 
-- **Google Colab** (Python Jupyter Notebook)
-- **Pandas, Seaborn, Matplotlib, Plotly**
-- **CSV data parsing & merging**
-- **GitHub** for version control
-- **Git CLI** for large file push
+To investigate the relationship between market sentiment and trading behavior by analyzing execution data and the Fear & Greed Index — identifying patterns in profit/loss and trade size across different market emotions.
 
 ---
 
-## 📝 Objectives
+🔧 Tools & Technologies Used
+
+- Google Colab (Python Jupyter Notebook)
+- Pandas, Seaborn, Matplotlib, Plotly
+- CSV data parsing & merging
+- GitHub for version control
+- Git CLI for large file push
+
+---
+
+📝 Objectives
 
 1. Integrate Hyperliquid trading data with Fear & Greed sentiment index.
 2. Clean, parse, and merge time-based data sources correctly.
@@ -43,7 +43,7 @@ To investigate the relationship between **market sentiment** and **trading behav
 
 ---
 
-## 🗃️ Folder Structure
+🗃️ Folder Structure
 ds\_thilak/
 ├── notebook\_1.ipynb              # Final Google Colab notebook
 ├── ds\_report.pdf                 # Final project report (2 pages)
@@ -61,44 +61,44 @@ ds\_thilak/
 
 ---
 
-## 📁 Dataset Overview
+📁 Dataset Overview
 
-### 1. `historical_data.csv`
+1. `historical_data.csv`
 - Trader-level data from Hyperliquid
 - Columns: `Execution Price`, `Size USD`, `Side`, `Closed PnL`, `Timestamp`
 
-### 2. `fear_greed_index.csv`
+2. `fear_greed_index.csv`
 - Daily market sentiment index
 - Columns: `date`, `classification` (Fear/Greed/Neutral)
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+📈 Exploratory Data Analysis (EDA)
 
-- **Sentiment Distribution:** How often Fear, Greed, or Neutral days occur.
-- **PnL vs Sentiment:** Distribution of profits and losses for each sentiment class.
-- **Trade Size vs Sentiment:** Variation in trade size by sentiment.
-- **PnL vs Trade Size (Interactive):** Scatterplot to see how trade size correlates with PnL, segmented by sentiment.
+- Sentiment Distribution:How often Fear, Greed, or Neutral days occur.
+- PnL vs Sentiment:Distribution of profits and losses for each sentiment class.
+- Trade Size vs Sentiment:Variation in trade size by sentiment.
+- PnL vs Trade Size (Interactive):Scatterplot to see how trade size correlates with PnL, segmented by sentiment.
 
 🖼️ All plots are saved inside `outputs/`.
 
 ---
 
-## 🔍 Insights & Inference
+🔍 Insights & Inference
 
-- 📉 On **Fear** days, traders tend to make smaller, less risky trades.
-- 📈 On **Greed** days, larger trades with more volatile PnL are common — suggesting aggressive behavior.
-- 🎯 **Strategy Tip:** Use sentiment classification as a signal to adjust trade volume and risk appetite.
+- 📉 On Feardays, traders tend to make smaller, less risky trades.
+- 📈 On Greed days, larger trades with more volatile PnL are common — suggesting aggressive behavior.
+- 🎯 Strategy Tip: Use sentiment classification as a signal to adjust trade volume and risk appetite.
 
 ---
 
-## 📥 Google Colab Link
+📥 Google Colab Link
 
 🔗 [Click here to view the working Colab Notebook](https://colab.research.google.com/drive/18X6plWSX040M6Qs1dzgPhwE3g-DJHued?usp=sharing)
 
 ---
 
-## 🧠 What I Learned
+🧠 What I Learned
 
 - Working with multi-source time series data and aligning formats (IST, date)
 - Cleaning and merging sentiment datasets with transactional data
@@ -108,7 +108,7 @@ ds\_thilak/
 
 ---
 
-## 🚀 How to Run
+🚀 How to Run
 
 1. Clone the repo:
    ```bash
@@ -120,7 +120,7 @@ ds\_thilak/
 
 ---
 
-## 📬 Contact
+📬 Contact
 
 If you'd like to learn more or collaborate:
 
