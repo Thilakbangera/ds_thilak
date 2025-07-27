@@ -1,7 +1,7 @@
 📄 Final `README.md` (You Can Copy-Paste)
 
 ```markdown
-# 📊 Sentiment-Driven Trading Analysis
+📊 Sentiment-Driven Trading Analysis
 
 This project explores how market sentiment (Fear vs Greed) affects trading behavior on the Hyperliquid platform. Using real trading data and sentiment scores, we perform data cleaning, merging, EDA, and derive insights that can help traders adapt their strategies based on sentiment dynamics.
 
@@ -114,11 +114,8 @@ ds\_thilak/
    ```bash
    git clone https://github.com/Thilakbangera/ds_thilak.git
 ````
-
 2. Open `notebook_1.ipynb` in Google Colab
 3. Run each step from data loading → visualization → insights
-
----
 
 📬 Contact
 
