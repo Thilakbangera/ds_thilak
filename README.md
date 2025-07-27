@@ -101,9 +101,7 @@ ds\_thilak/
 
 - Working with multi-source time series data and aligning formats (IST, date)
 - Cleaning and merging sentiment datasets with transactional data
-- Using statistical plots (box, scatter, strip) for visual storytelling
 - Automating insights via `groupby` aggregations
-- Managing large files with Git CLI and project structuring on GitHub
 
 ---
 
