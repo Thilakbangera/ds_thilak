@@ -9,7 +9,7 @@ This project explores how market sentiment (Fear vs Greed) affects trading behav
 
 ## 👤 Author
 
-- **Name:** Thilak Bangera
+- **Name:** Thilak
 - **Internship Platform:** Internshala
 - **Company:** Primetrade.ai
 - **Project:** Data Science Internship Project
