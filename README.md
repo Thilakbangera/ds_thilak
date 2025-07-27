@@ -29,7 +29,6 @@ To investigate the relationship between market sentiment and trading behavior by
 - Pandas, Seaborn, Matplotlib, Plotly
 - CSV data parsing & merging
 - GitHub for version control
-- Git CLI for large file push
 
 ---
 
