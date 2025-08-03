@@ -1,4 +1,3 @@
-📄 Final `README.md` (You Can Copy-Paste)
 
 ```markdown
 📊 Sentiment-Driven Trading Analysis
